@@ -17,7 +17,7 @@ This assignment is meant to obtain a grasp on how to use github.
 -Use markdown sytax organize your file
 -To help with markdown syntax [this](https://www.markdownguide.org/cheat-sheet/) guide will help you. 
 
--Committ changes to your fie.
+-Committ changes to your file.
 
 ### Files Used
 -This is where any files that may be used would be put in
