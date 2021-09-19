@@ -1,16 +1,17 @@
 # Jackson_Sample
 
-# How to create headers in Github
-1. Use pound sign to create first header
-2. Add additional pound sign for each following header
+# Table of Contents
+1. Description
+2. How to Run Program
+3. Files used
+4. Additional Information
+5. Versioning
 
-## How to use edit text
-1. Bold texts requires two stars before and after the text that you want bolded **This is text with two stars before.** 
-2. Italisized text only requires one star *this is text with only one star before*
+## Description
+This assignment is meant to obtain a grasp on how to use github.
+- **One way of this is by editing the text to include bold text like so.**
+- *Also you can edit the text to make the text italicized.*
 
-### Creating Lists
-1. Ordered Lists are made using numbers before the sentence
-2. This is a continuation of the ordered list
-3. So is this
-- Unordered lists are different however.
-- By putting a dash mark before the text it creates an unordered list like so
+## How to Run Program
+-This is where one would explain how to run programs.
+- To help with [markdown syntax](https://www.markdownguide.org/cheat-sheet/) this guide will help you. 
